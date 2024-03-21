@@ -1,0 +1,17 @@
+{
+  "dbConfig": {
+    "url": "mongodb+srv://user:pass@cluster0.zee0m.mongodb.net/CeffeBase"
+  },
+  "botConfig": {
+    "token": "1700784572:AAGcwooT4g2-Kqc71NIcutdUuv2Uc1Xh2rU",
+    "admin_id": "453618765",
+    "bot_name": "Tomas"
+  },
+  "payment": {
+    "providerToken": "401643678:TEST:0dd70ab6-7ab2-4cba-ba81-95af17d162a7"
+  },
+  "drinkOption": {
+    "small": "250мл",
+    "middle": "350мл"
+  }
+}
